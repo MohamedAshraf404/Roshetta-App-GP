@@ -7,7 +7,6 @@ import numpy as np
 import pandas as pd 
 import random
 import logging
-import matplotlib.pyplot as plt
 from PIL import Image
 
 # Deep learning libraries
