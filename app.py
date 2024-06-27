@@ -6,7 +6,6 @@ import os
 import numpy as np
 import pandas as pd 
 import random
-import cv2
 import logging
 import matplotlib.pyplot as plt
 from PIL import Image
